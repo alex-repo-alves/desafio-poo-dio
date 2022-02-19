@@ -235,3 +235,4 @@ nbdist/
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,visualstudiocode,netbeans,eclipse
+.idea/vcs.xml
